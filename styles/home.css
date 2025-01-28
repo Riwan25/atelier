@@ -1,0 +1,18 @@
+main {
+    /* background-color: red; */
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 5px;
+}
+
+section.right {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+
+section.left {
+    font-size: 20px;
+}
